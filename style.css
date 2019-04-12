@@ -1,0 +1,62 @@
+body{margin:0px}
+.zaglavie{width:100%;
+height:100px;
+background-color:white;
+color:black;
+font-family: 'Oswald', sans-serif;
+text-transform: uppercase;
+text-align: center;
+font-size:55px;
+padding-top:10px;
+background: url('hat.jpg');
+color:white;
+text-shadow:5px 5px 0px gray;}
+.menu{width:100%-1px;
+box-shadow: 2px 2px 27px 8px rgba(0,0,0,0.8);
+height:55px;
+background-color:grey;
+padding: 0px;
+padding-top: 15px;
+border:1px solid #332f2c}
+.content{width:100%-100px;
+height:820px;
+font-size: 20px;
+font-family: 'Calibri';
+ background-color:#9370DB;
+color:white;
+background: url("fon.jpg");
+padding-top: 10px;
+padding-left: 50px;
+padding-right:50px;
+text-align: justify}
+.footen{width:100%;
+height:100px;
+border-top: 10px solid black;
+background: url('https://luxoboi.com.ua/image/cache/400/603791-400x400.jpg');
+background-size: 50%;
+color:black; }
+
+li{display: inline;}
+.oil {margin: 0;
+      padding: 0;
+      list-style-type: none;
+      width: 100%;
+      text-align: center;}
+a { text-decoration: none;
+color: white}
+.yy:hover{box-shadow: 0 0 7px 10px rgba(0,0,0,0.5);}
+.yy {
+    color:#4B0082;
+   text-transform: uppercase;
+   width: 27%;
+   background-color:black;
+   padding: 5px 10px;
+   text-decoration: none;
+   display: inline-block;
+   border-radius: 20px ;
+   border: 6px double white;
+   color: white;
+   padding:5px}
+img {    box-shadow: 0 0 7px 7px rgba(0,0,0,0.5)}
+p {    background-color: rgba(0,0,0,0.5);
+    box-shadow: 0 0 7px 7px rgba(0,0,0,0.5)}
